@@ -14,7 +14,7 @@
 
 前端：技术栈未知...（可能是vue
 
-后端：spring全家桶 + MariaDB
+[后端](https://github.com/kinwgze/personal_blog_server)：spring全家桶 + MariaDB
 
 以及此项目：搭建、维护过程，相关资料、笔记等。
 
