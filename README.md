@@ -30,6 +30,12 @@ spring全家桶 + MariaDB
 
 希望自己能好好的填坑。
 
+## 关于本项目
+
 [plan](./plan)：主要记录的是一些计划和设计
 
 [server](./server)：主要记录的是服务器的一些配置过程之类的
+
+[blog_server](./blog_server)：主要记录后端编写和搭建，以及学习记录
+
+[blog_front](./blog_front)：主要记录前端编写和搭建等，以及学习记录
